@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<title> BVRIT </title>
+</head>
+<body>
+
+<h1><mark>  Online book store </mark></h1>
+<h2>Created & maintained by MRCET</html>
+<h3> TASK </h3>
+<h4> BVRIT </h4>
+<h5> HYDERABAD </h5>
+<h6> TELANGANA </h6>
+<hr>
+
+</body>
+ </html>
+
+<p> HTML is the language in which most websites are written. 
+<br>
+<br>HTML is used to create pages and make them functional</br>
+<big>A <tt>web page</tt></big> <small>is fundamentally made up of three constituents the first is HTML,</small> &nbsp;&nbsp; second is CSS and the third is JavaScript.
+<b><u>HTML</u></b> will  only give the structure of the web page.
+<pre>CSS adds beauty to the webpage.</pre>
+
+<strong><i>JavaScript</i></strong> is used for making web page dynamic.
+</p>
+
+<p>  
+<q>(a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab</q>
+</p>
+
+<a href="https://task.telangana.gov.in/" target="_blank">TASK website</a> 
+
+
+<img src="C:\Users\USER\OneDrive\Desktop\WEB DEVELOPMENT.jpg" aly="rasagnya image" width="100px" height="!00px">
+

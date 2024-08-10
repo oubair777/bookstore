@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html> 
+<head>
+
+<title> BVRIT </title>
+</head>
+<body style="background-color:lightgreen;height="100px">
+<style>
+
+div {
+  height: 200px;
+  width: 100%;
+  background-color: lawngreen;
+}
+ 
+h1 {text-align: center;}	
+h2{text-align:center;color:white;}
+h3{text-align:
+</style>
+<div>
+<h1 style="color:#ff0000;background-color:rgb(124, 252, 0);"><mark><big>Online book store </big></mark></h1>
+<h2>Created & maintained by MRCET<h2>
+<br>
+<h3><a href="https://task.telangana.gov.in/" <a href=" ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HOME</a><a href=" ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOGIN</a><a href=" ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REGISTER</a><a href=" ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CATALOGUE</a> </h3>
+
+</div>
+<hr>
+<form>
+<fieldset>
+<legend><b><i><mark>Registration Form</b></i></mark></legend>
+<label>First Name:</label>
+<input type="text" placeholder="enter your first name" required>
+
+<br><br>
+
+<label>Last Name:</label>
+<input type="text" placeholder="enter last name" required>
+
+<br><br>
+<label>Gender:</label>
+<input type="radio" name="g">FeMale
+<input type="radio" name="g">Male
+
+<br><br>
+<label>Mobile number</label>
+<input type="tel" pattern="[0-9]{10}">
+
+<br><br>
+<label>Email Id: </label>
+<input type="email" required>
+
+<br><br>
+<label>enter your password</label>
+<input type="password">
+<br><br>
+<label>Address: </label>
+<textarea rows="5" cols="50">Enter your address</textarea>
+
+<br><br>
+<center>
+<input type="reset">
+<input type="submit">
+</center>
+
+</form>
+</body>
+</html>
+
+
+</body>
+ </html>
